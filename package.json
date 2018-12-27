@@ -1,0 +1,22 @@
+{
+  "name": "tree-walk-and-filter",
+  "version": "1.0.0",
+  "description": "任意层级树形结构数据的遍历和过滤",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingxiaoguang/tree-walk-and-filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingxiaoguang/tree-walk-and-filter/issues"
+  },
+  "homepage": "https://github.com/lingxiaoguang/tree-walk-and-filter#readme"
+}
