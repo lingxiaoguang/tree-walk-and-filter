@@ -56,7 +56,7 @@ const dfsFilter = (tree, ope, filter) => {
     return walkAndCopy(tree)
 }
 
-const bfsFilter = const bfs = (tree, ope, filter) => {
+const bfsFilter = (tree, ope, filter) => {
     const walkAndCopy = (tree, depth = 1) => {
         const queue = []
         if (filter(tree.name)) {
